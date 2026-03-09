@@ -176,3 +176,8 @@ Pull requests are welcome! Feel free to open an issue for bug reports, feature r
 ## 📄 License
 
 MIT — see [LICENSE](LICENSE) for details.
+
+## AI Assistance
+
+Some parts of this project were assisted by AI tools (Claude) for documentation,
+code suggestions and brainstorming. All code was reviewed and validated by the project maintainer.
